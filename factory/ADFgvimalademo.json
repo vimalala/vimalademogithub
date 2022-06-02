@@ -1,0 +1,9 @@
+{
+	"name": "ADFgvimalademo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ccdf881-5f64-4487-8719-e0e22da69e15",
+		"tenantId": "dc531347-1506-4e70-8a65-a9b2593ab44c"
+	}
+}
